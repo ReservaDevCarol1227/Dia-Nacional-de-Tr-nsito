@@ -1,0 +1,106 @@
+
+
+
+h1{
+color: #343A40;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 250%;
+}
+
+h3{
+    color: #343A40;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 150%;
+    
+}
+h4{
+      color: #343A40;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+font-size: 200%;
+
+}
+
+h5{
+    font-size: 150%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    color: rgb(24, 24, 150);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-align: center
+;
+}
+
+li{
+    color: rgb(19, 19, 145);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 118%;
+}
+
+body{
+    background-color: rgb(255, 248, 227);
+}
+
+footer {
+            background-color: #5d7fa7ad;
+            padding: 30px 20px;
+            text-align: center;
+            font-size: 78%;
+        }
+
+   
+.btn-transito {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0f58acad;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 120%;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  
+}
+
+
+.btn-transito:hover {
+  background-color: #FF6600;
+}
+
+img{
+            width: 400px;
+            height: 400px;
+    
+}
+.container{
+    text-align: center;
+}
+
+table {
+  width: 90%; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th{
+    font-size: 150%;
+    color:rgb(19, 19, 145) ;
+}
+
+td{
+font-size: 120%;
+color: rgb(19, 19, 145);
+}
+
+ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
